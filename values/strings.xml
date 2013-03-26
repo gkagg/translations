@@ -1,16 +1,16 @@
 <resources>
 
     <string name="app_name">franco.Kernel updater</string>
-    <string name="menu_settings">Settings</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
 
     <!-- Main Activity -->
     <string name="main">Main</string>
-    <string name="device_supported_title">Your device status</string>
-    <string name="device_supported_summary">Your device is:</string>
+    <string name="device_supported_title">Κατάσταση της συσκευής σας</string>
+    <string name="device_supported_summary">Η συσκευή σας είνα:</string>
     <string name="franco_kernel_title">franco.Kernel updater</string>
-    <string name="franco_kernel_summary">Here is where you\'ll check for new versions of franco.Kernel, download them and flash them ondemand.</string>
+    <string name="franco_kernel_summary">Από εδώ ελέγχετε για νέες εκδόσεις του franco.Kernel, και μπορείτε να τις μεταφορτώσετε και να τις φλασάρετε κατά βούληση.</string>
     <string name="lean_kernel_title">LeanKernel updater</string>
-    <string name="lean_kernel_summary">If you click here you\'re officially a traitor, but you\'ll still be able to enjoy Imoseyon\'s kernels.</string>
+    <string name="lean_kernel_summary">Εάν κάνετε κλικ εδώ είστε και επίσημα προδότες, αλλά εξακολουθείτε να μπορείτε να χαρείτε τα kernel του Imoseyon.</string>
     <string name="backup_restore_title">Kernel backup/restore</string>
     <string name="backup_restore_summary">Powerful Kernel backup and restore. Save your current kernels and load them up anytime without needing to use the recovery.</string>
     <string name="oc_uv_title">Frequencies/Voltages</string>
